@@ -38,7 +38,7 @@ try {
         <div class="card-body">
             <div class="row">
                 <div class="col-md-12">
-                    <h5 class="card-title float-left">Jadual Alat Ganti Kereta</h5>
+                    <h5 class="card-title float-left">Jadual-jadual Alat Ganti Kereta</h5>
                     <a href="create.php" class="btn btn-success float-right mb-3"><i class="fa fa-plus"></i> Tambah Produk </a>
                     <a href="print.php" class="btn btn-success float-right mb-3"><i class="fa fa-print"></i> Cetak </a>
                 </div>
