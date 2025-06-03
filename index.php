@@ -111,7 +111,7 @@
                         <div class="card bg-light border-0 h-100">
                             <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                                 <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-card-heading"></i></div>
-                                <h2 class="fs-4 fw-bold">Halaman Produk</h2>
+                                <h2 class="fs-4 fw-bold">Halaman Produk Barangan-barangan Kereta</h2>
                                 <p class="mb-0">Halaman ini Untuk Tambah Produk, Kemaskini Maklumat, Padam Maklumat Dan Cetak</p><br>
                                 <a class="btn btn-primary btn-lg" href="inputproduct.php"><i class="bi bi-card-heading"></i> Klik disini</a>
                             </div>
