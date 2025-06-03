@@ -20,7 +20,7 @@
 	  	      action="auth.php"
 	  	      method="post" 
 	  	      style="width: 30rem">
-	  		<h1 class="text-center pb-0 display-4">LOGIN</h1>
+	  		<h1 class="text-center pb-0 display-4">SELAMAT DATANG KE HALAMANLOGIN</h1>
 			<center><img src="gif/sistem.gif"  width="300px" height="150px"></center>
 
 	  		<?php if (isset($_GET['error'])) { ?>
